@@ -1,0 +1,11 @@
+nltk~=3.8.1
+pandas~=2.2.2
+tqdm~=4.66.2
+psutil~=5.9.8
+scikit-learn~=1.4.2
+git+https://github.com/ljdyer/feature-restoration-evaluator.git
+
+setuptools~=60.2.0
+numpy~=1.26.4
+fre~=1.1
+scipy~=1.13.0

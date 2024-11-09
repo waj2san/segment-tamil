@@ -1,0 +1,4 @@
+open-tamil
+pandas
+numpy
+jupyter
